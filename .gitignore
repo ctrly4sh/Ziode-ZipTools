@@ -1,0 +1,3 @@
+
+*.zip
+/server/src/controller/uploads
